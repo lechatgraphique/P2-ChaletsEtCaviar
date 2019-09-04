@@ -5,7 +5,7 @@
 # Agence immobilière Chalets & Caviar
 Projet 2 de mon parcours Développeur d'application PHP/Symfony chez OpenClassrooms. Réalisation d'un site WordPress pour un agence immobilière.
 
-lien : [www.chaletsetcaviar.lechatgraphique.fr](http://chaletsetcaviar.lechatgraphique.fr) [inactif pour l'instant (migration)].
+lien : [www.chaletsetcaviar.lechatgraphique.fr](http://chaletsetcaviar.lechatgraphique.fr) Inactif pour l'instant (migration)
 
 ### Informations du projet : 
 
